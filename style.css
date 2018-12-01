@@ -9,7 +9,7 @@ body {
 	background-color: #fff
 }
 
-div.hero{
+.hero{
 	background-image: url();
 }
 
@@ -21,7 +21,7 @@ h1 {
 	text-align: left;
 }
 
-p.top {
+.top {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	font-size: 24px;
@@ -29,11 +29,20 @@ p.top {
 	text-align: center;
 }
 
-button.yellow{
+.yellow{
 		background-color: yellow;
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 800;
 		font-size: 14px;
 		font-color: darkblue;
 		text-align: center;
+		border-radius: 5px;
+}
+
+.btn-yllw{
+	margin-left: auto;
+	margin-right: auto;
+	width: 10%;
+    padding: 10px;
+
 }
