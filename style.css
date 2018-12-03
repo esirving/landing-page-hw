@@ -10,33 +10,43 @@ body {
 }
 
 .hero{
-	background-image: url();
+	background-image: url("https://i.imgur.com/keY0xH2.jpg");
+	width: auto;
+	height: 699px;
+	margin-top: 0px; 
 }
+
 
 h1 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 800;
 	font-size: 24px;
-	font-color: ;
+	color: #fff;
 	text-align: left;
+	margin-left: 50px;
+	margin-top: 0px;
+	padding-top: 20px;
 }
+
+
 
 .top {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	font-size: 24px;
-	font-color: ;
+	color: #fff;
 	text-align: center;
 }
 
 .yellow{
-		background-color: yellow;
+		background-color: #f9e42e;
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 800;
 		font-size: 14px;
-		font-color: darkblue;
+		color: #033048;
 		text-align: center;
 		border-radius: 5px;
+		padding: 10px 20px;
 }
 
 .btn-yllw{
