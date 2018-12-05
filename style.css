@@ -42,7 +42,7 @@ h1 {
 	font-size: 24px;
 	color: #fff;
 	text-align: left;
-	margin-left: 50px;
+	margin-left: 80px;
 	margin-top: 0px;
 	padding-top: 20px;
 }
@@ -53,7 +53,7 @@ h2 {
 	font-size: 20px;
 	color: #033048;
 	text-align: left;
-	margin-left: 50px;
+	margin-left: 80px;
 	margin-top: 0px;
 	padding-top: 20px;
 }
@@ -76,7 +76,7 @@ ul {
 	color: #606161;
 	line-height: 1.8;
 	text-align: left;
-	margin-left: 50px;
+	margin-left: 80px;
 	margin-top: 0px;
 	padding-top: 0px;
 }
@@ -89,7 +89,7 @@ ul {
 	color: #606161;
 	line-height: 1.4;
 	text-align: left;
-	margin-left: 50px;
+	margin-left: 80px;
 	margin-top: 0px;
 	padding-top: 0px;
 }
