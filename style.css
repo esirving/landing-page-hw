@@ -16,6 +16,7 @@ html body * {
 .container {
   width: 1200px;
   padding: 0px;
+  margin: auto;
   }
 
 .hero{
